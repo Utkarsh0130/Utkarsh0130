@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Advanced Java.<br>I'm a CSE undergrad.<br>I love following current affairs.<br>I have proficiency in Java , React JS.<br>I have also built projects using Python And Deep Learning.<br>I am also a fitness freak.<br>
+I'm currently working on Advanced Java & it's Frameworks <br>I'm a CSE undergrad.<br>I love following current affairs.<br>I have proficiency in Java , React JS.<br>I have also built projects using Python And Deep Learning.<br>I am also a fitness freak.<br>
 
 
 ## 🌐 Socials:
